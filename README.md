@@ -1,3 +1,3 @@
 # First-Repository
 
-## Hallo, meingit Friende
+## Hallo, mein Friende

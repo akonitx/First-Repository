@@ -1,3 +1,4 @@
 # First-Repository
 
-## Hallo, mein Friende. How are you?
+# My image
+image.png 
